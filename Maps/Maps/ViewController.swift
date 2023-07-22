@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    
+    func gitTestMethod(){
+        // acaba githuba gelecek mi bu kod.
+    }
 
 }
 
