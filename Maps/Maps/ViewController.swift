@@ -16,7 +16,7 @@ class ViewController: UIViewController {
 
     
     func gitTestMethod(){
-        // acaba githuba gelecek mi bu kod.
+        print("Test")
     }
 
 }
